@@ -1,6 +1,5 @@
-This is a program to that is able to recognize "Go" and "Stop" voice commands.
-
 Speaker Independent Speech Recognition System
+This is a program that is able to recognize  voice commands.
 
 1. Create the template from  the test data.
 2. Take input and process (feature extraction , quality etc.)
